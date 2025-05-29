@@ -1,0 +1,7 @@
+{
+  "name": "PrefabsMadeEasy",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/enjerutantei/prefabsmadeeasy",
+  "description": "Makes it easier to learn Prefabs",
+  "dependencies": ["denikson-BepInExPack_Valheim-5.4.2202"]
+}
